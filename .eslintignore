@@ -1,0 +1,2 @@
+# Ignore Vitest unit config
+vitest.unit.config.ts 
